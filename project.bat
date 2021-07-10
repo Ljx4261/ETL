@@ -1,0 +1,1 @@
+sqlldr CONTROL=project.ctl   skip=1   

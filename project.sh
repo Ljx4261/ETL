@@ -1,0 +1,1 @@
+sqlldr MASY_JL11190/MASY_JL11190@localhost:1521/app12c CONTROL=project.ctl   skip=1   
