@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="youtube_qs541_data_model" id="6D44FEE8-B71B-28DD-0374-BD221D8546F0" version="3.5">
+<createdBy>qihuisun</createdBy>
+<createdTime>2019-09-24 17:59:07 UTC</createdTime>
+<ownerDesignName>youtube_qs541_data_model</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6D44FEE8-B71B-28DD-0374-BD221D8546F0</designId>
+</OSDM_Design>
