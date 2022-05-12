@@ -2,8 +2,8 @@
 <h3 align="center">A passionate data scientist</h3>
 
 - 🔭 I’m currently working on Popular Youtube Video Analysis and Building a Dashboard
-- YouTube is an American video-sharing website, which is located in San Bruno, California. YouTube allows users to upload, view, rate, share, add to playlists, report, comment on videos, and subscribe to other users. It offers a wide variety of user-generated and corporate media videos. YouTube now operates as one of Google's subsidiaries.
-- ⚡ For this project, I will be the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. My job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks.
+<h3 align="left">Project Introduction</h3>
+- ⚡  YouTube is an American video-sharing website, which is located in San Bruno, California. YouTube allows users to upload, view, rate, share, add to playlists, report, comment on videos, and subscribe to other users. It offers a wide variety of user-generated and corporate media videos. YouTube now operates as one of Google's subsidiaries. For this project, I will be analyzing the popular youtube video analysis with some dashboards!
 
 <h3 align="left">Project Goals</h3>
 <p align="left">
@@ -31,7 +31,7 @@
 **Data Preparation**
 
 1. Included the whole dataset by dataset provider Mitchell J..
-2. in order to have clear and better analysis, reduced data size to 100.
+2. Data Transformation
 3. Added new related data: channel name, channel followers and category name
 4. Formatted the data to the form needed.
 ---
